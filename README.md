@@ -1,20 +1,20 @@
 Arsione: Lágrimas de Aerie
-===============
+--------------
 
 ### Equipe de Coordenação e Desenvolvimento
 --------------
 
 #### Coordenadores
 
-- Holdur          - José
+* Holdur          - José
 
-- ADM Dragon      - Joab
+* lyde            - Fernando
 
-#### Tradução e Desenvolvimento
+* ADM Dragon      - Joab
 
-- lyde            - Fernando
+#### Tradutores de Desenvolvedores
 
-- Maate           - Denúbio
+* Maate           - Denúbio
 
 
 
@@ -25,3 +25,16 @@ Agradecimento ao Fórum do Cronus-Emulator por nos deixar disponibilizar a ferra
 
 * Fórum: (http://forum.cronus-emulator.com/)
 * URL do Tópico (http://forum.cronus-emulator.com/index.php?/topic/120494-sistema-rpg/)
+
+### 
+### Contribuidores
+--------------
+
+* Holdur     -    José
+
+* ADM Dragon      -    Joab
+
+* lyde     -    Fernando
+
+* Maate    -     Denúbio
+
