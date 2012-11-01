@@ -1,16 +1,16 @@
 Arsione: Lágrimas de Aerie
 ===============
 
-Equipe de Coordenação e Desenvolvimento
+### Equipe de Coordenação e Desenvolvimento
 --------------
 
-### Coordenadores
+#### Coordenadores
 
 - Holdur          - José
 
 - ADM Dragon      - Joab
 
-### Tradução e Desenvolvimento
+#### Tradução e Desenvolvimento
 
 - lyde            - Fernando
 
