@@ -21,10 +21,20 @@ Arsione: Lágrimas de Aerie
 ### Agradecimentos
 --------------
 
-Agradecimento ao Fórum do Cronus-Emulator por nos deixar disponibilizar a ferramenta.
+###### Thanks to Aerie letting us translate and provide the tool in other forums ragnarok
+------------------------
+
+Agradecimento ao Cronus-Emulator por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
 
 * Fórum: (http://forum.cronus-emulator.com/)
-* URL do Tópico (http://forum.cronus-emulator.com/index.php?/topic/120494-sistema-rpg/)
+
+Agradecimento ao brAthena por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
+
+* Fórum: (http://brathena.org/)
+
+Agradecimento ao Fensalir.bet por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
+
+* Fórum: (http://fensalir.net/)
 
 ### 
 ### Contribuidores
