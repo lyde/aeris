@@ -24,11 +24,11 @@ Arsione: Lágrimas de Aerie
 ###### Thanks to Aerie letting us translate and provide the tool in other forums ragnarok
 ------------------------
 
-Agradecimento ao Cronus-Emulator por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
+Agradecimento ao Cronus-Emulator por nos deixar disponibilizar a ferramenta que está de livre acesso no fórum.
 
 * Fórum: (http://forum.cronus-emulator.com/)
 
-Agradecimento ao Fensalir.bet por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
+Agradecimento ao Fensalir.net por nos deixar disponibilizar a ferramenta que está de livre acesso no fórum.
 
 * Fórum: (http://fensalir.net/)
 
