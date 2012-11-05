@@ -28,10 +28,6 @@ Agradecimento ao Cronus-Emulator por nos deixar disponibilizar a ferramenta que 
 
 * Fórum: (http://forum.cronus-emulator.com/)
 
-Agradecimento ao brAthena por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
-
-* Fórum: (http://brathena.org/)
-
 Agradecimento ao Fensalir.bet por nos deixar disponibilizar a ferramenta que está disponível de livre acesso no fórum.
 
 * Fórum: (http://fensalir.net/)
